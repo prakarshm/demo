@@ -1,2 +1,3 @@
 # demo
-this is to learn git and github
+This is to learn git and GitHub
+Author - Prakarsh Mathur
